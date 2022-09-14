@@ -1,12 +1,10 @@
+<h1 align="center">
+    <img alt = "Logo" src = "./.github/Logo.svg" width = "100%" />
+</h1>
+
 <p align="center">
   Backend eSports  🚀
 </p>
-
-<h1 align="center">
-    <img alt = "Logo" src = "./.github/logo.svg" width = "100%" />
-</h1>
-
-​
 
 ## :checkered_flag: Começando
 
