@@ -18,6 +18,12 @@ $ cd eSports-api
 # Install dependencies
 $ npm i
 
+# Install migrations
+$ npx prisma migrate
+
+# run database
+$ npx prisma studio
+
 # Start Aplication
 $ npm run dev
 
